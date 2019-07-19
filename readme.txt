@@ -1,4 +1,4 @@
-这只是一个文件而已
-adsf
-asdfasdf
-asdfasf12312321
+bt1|bt2|bt3
+---|:--:|---:
+nr1|nr2|nr3
+nr4|nr5|nr6
